@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "filtered-ann-regret: when selectivity-estimation error causes plan regret in filtered ANN"
+message: "If you use this software, please cite it and the accompanying preprint."
+authors:
+  - family-names: Mandarapu
+    given-names: Madhulatha
+  - family-names: Kunkunuru
+    given-names: Sandeep
+version: 0.1.0
+date-released: 2026-06-14
+license: Apache-2.0
+repository-code: "https://github.com/samyama-ai/filtered-ann-regret"
+keywords:
+  - approximate nearest neighbor
+  - vector search
+  - filtered ANN
+  - selectivity estimation
+  - phase transition

@@ -1,0 +1,13 @@
+[project]
+name = "fann-regret"
+version = "0.1.0"
+description = "Phase-transition view of filtered-ANN strategy selection: when selectivity-estimation error causes plan regret"
+authors = [{name = "Madhulatha Mandarapu"}, {name = "Sandeep Kunkunuru"}]
+requires-python = ">=3.10"
+dependencies = ["numpy", "scipy", "faiss-cpu", "hnswlib", "matplotlib"]
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools.packages.find]
+include = ["fann_regret*"]

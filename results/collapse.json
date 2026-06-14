@@ -1,0 +1,12 @@
+{
+  "collapse_rmse": 0.015162072699124191,
+  "scaled_norm_scatter": 0.10563089701427471,
+  "unscaled_norm_scatter": 1.6588344852230084,
+  "spread_reduction": 15.704065118360562,
+  "n_points": 570,
+  "ns": [
+    100000,
+    1000000,
+    10000000
+  ]
+}
